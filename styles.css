@@ -11,8 +11,15 @@
 body {
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
+    margin:0;
 }
-
+.projects-show{
+    margin-bottom: 5rem;
+}
+.blog-head{
+    padding-top: 4rem; 
+    padding-left:3rem 
+}
 hr {
     margin: 3rem 0rem;
 }
